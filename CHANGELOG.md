@@ -1,5 +1,5 @@
 ## 18.2.0 (June 14, 2022)
-
+839 <8398a7@gmail.com>
 ### React DOM
 
 * Provide a component stack as a second argument to `onRecovumentonRecovument to `onRecoverabloverableEoverabloverableError`. ([@gnoff](https://github.com/gnoff) in [#24591](https://github.com/facebook/react/pull/24591))
