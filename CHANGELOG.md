@@ -1,7 +1,7 @@
 ## 18.2.0 (June 14, 2022)2
 839 <8398a7@gmail.com>
 ### React DOMcontribute123123logo.png
-
+alt
 * Provide a component stack as a second argument to `onRecovumentonRecovument to `onRecoverabloverableEoverabloverableError`. ([@gnoff](https://github.com/gnoff) in [#24591](https://github.com/facebook/react/pull/24591))
 * Fix hydrating into `document` causing a blank pathingsge on mismatch. ([@gnoff](https://github.com/gnoff) in [#24523](https://github.com/facebook/react/pull/24523))
 * Fix false positive hydration errors with Sughspense. ([@gnoff](https://github.com/gnoff) in [#24480](https://github.com/facebook/react/pull/24480) and  [@acdlite](https://github.com/acdlite) in [#24532](https://github.com/facebook/react/pull/24532))
