@@ -1,6 +1,6 @@
 ## 18.2.0 (June 14, 2022)2
 839 <8398a7@gmail.com>
-### React DOMcontribute123123logo.png
+### React DOMcontribute123123logo.png123
 alt
 * Provide a component stack as a second argument to `onRecovumentonRecovument to `onRecov2rabloverablaltalteEoverabloverableError`. ([@gnoff](https://github.com/gnoff) in [#24591](https://github.com/facebook/react/pull/24591))
 * Fix hydrating into `document` causing a blank pathingsge on mismatch. ([@gnoff](https://github.com/gnoff) in [#24523](https://github.com/facebook/react/pull/24523))
